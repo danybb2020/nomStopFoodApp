@@ -1,11 +1,11 @@
-# Project One: Nom' Stop. A Food App For The Picky Millennial. 
+Nom' Stop. A Food App For The Picky Millennial. 
 
 We are the Wizards of Git and we wanted to create an app to simplify the life of people. Who hasn't been in the situation where you need to get dinner but you don’t know where to go? When you've tried all the restaurants in your neighborhood and end up ordering from the same place over and over again. That's why we created “Nom’Stop”, the app that chooses for you and makes picking dinner easy!
 
 ## Deployment
 
-* Link to App: https://saritapeter123.github.io/projectOne/index.html
-* Link to Repo: https://github.com/Saritapeter123/projectOne
+* Link to App: https://danybb2020.github.io/nomStopFoodApp/
+* Link to Repo: https://github.com/danybb2020/nomStopFoodApp
 
 ## Demo Photo & Gif
 Photo of Homepage with Prompt: 
